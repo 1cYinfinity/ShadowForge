@@ -11,13 +11,15 @@ Welcome to ShadowForge – where you can create chaos effortlessly! This Python 
 1. Clone the repository: `git clone https://github.com/1cYinfinity/ShadowForge.git`
 2. Navigate to the script's lair: `cd ShadowForge`
 3. Customize your mischief: Replace proxies, modify the target service URL.
-4. Run the shadows: `python shadowforge.py`
+4. Make sure you have the following Python libraries installed before running ShadowForge: `pip install -r requirements.txt`
+5. Run the shadows: `python shadowforge.py`
 
 😎 **Revel in Chaos Responsibly:**
 - With great power comes great chaos – use responsibly and respect terms of service.
 - Contributors welcome! Dive into the shadows, where ordinary scripts fear to tread.
 
-🌐 **Exploren:**
+
+🌐 **Explore :**
 [GitHub Repository](https://github.com/1cYinfinity/)
 
 **Disclaimer:** ShadowForge is for educational purposes only. The author and contributors are not responsible for any misuse or consequences arising from its use.
